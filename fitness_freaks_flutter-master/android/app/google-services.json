@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "164100596988",
+    "project_id": "fitness-freaks-62dfe",
+    "storage_bucket": "fitness-freaks-62dfe.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:164100596988:android:6c85f98545a817bb566379",
+        "android_client_info": {
+          "package_name": "com.gym.fitnessfreeks"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDjZSucbmFBLhpmHk5lK-HQPp2wWVqmwnk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
